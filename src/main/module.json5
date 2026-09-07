@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "row_item_view",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "row_item_view_test",
+    "type": "feature",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false
+  }
+}
