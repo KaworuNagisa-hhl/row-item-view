@@ -14,16 +14,6 @@
 ohpm install row-item-view
 ```
 
-本地源码依赖：
-
-```json5
-{
-  "dependencies": {
-    "row-item-view": "file:../row-item-view",
-    "theme": "file:../theme"
-  }
-}
-```
 
 ## 正常使用样式
 
